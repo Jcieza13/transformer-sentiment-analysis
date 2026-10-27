@@ -1,6 +1,6 @@
 # 🎬 Transformer Sentiment Analysis
 
-Proyecto académico realizado como parte del programa **AWS AI Programmer de Udacity**.
+Proyecto académico realizado como parte del programa Nanodegree  **Future AWS AI Programmer de Udacity**.
 
 Implementación y entrenamiento de una arquitectura Transformer para realizar análisis de sentimiento sobre reseñas de películas utilizando el conjunto de datos **IMDB Movie Reviews Dataset**.
 
