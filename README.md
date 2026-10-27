@@ -246,6 +246,6 @@ En conjunto, este trabajo constituye una experiencia práctica en la implementac
 
 ## 👨‍💻 Autor
 
-**Jen Pierr Ismael Cieza Diaz**
+**Jen Pierr**
 
 Proyecto académico realizado como parte del programa **AWS AI Programmer de Udacity**.
